@@ -1,8 +1,8 @@
 {
-  "name": "cordova-plugin-lottie-splashscreen-ez",
+  "name": "@ezcguerrar/cordova-plugin-lottie-splashscreen-ez",
   "version": "1.0.0",
   "description": "Apache Cordova plugin to show Lottie animations as the splash screen with Airbnb's Lottie wrapper",
-  "author": "Tim Brust <github@timbrust.de>",
+  "author": "cguerrarez",
   "license": "MIT",
   "types": "./types/index.d.ts",
   "scripts": {
@@ -32,7 +32,7 @@
     "typescript-eslint": "^8.6.0"
   },
   "cordova": {
-    "id": "cordova-plugin-lottie-splashscreen-ez",
+    "id": "cordova-plugin-lottie-splashscreen",
     "platforms": [
       "android",
       "ios"

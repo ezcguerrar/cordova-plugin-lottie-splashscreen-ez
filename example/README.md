@@ -1,6 +1,6 @@
 # lottie-demo
 
-### A small example project to show configuration of the cordova-plugin-lottie-splashscreen plugin.
+### A small example project to show configuration of the cordova-plugin-lottie-splashscreen-ez plugin.
 
 ### Getting started
 
